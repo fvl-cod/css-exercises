@@ -1,1 +1,37 @@
 /* Add CSS Styling */
+
+p {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+#number3 {
+    font-size: 24px;
+}
+#number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+/* My code is very different from the solution but the result is the same...
+.odd {
+  background-color: rgb(255, 167, 167);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size {
+  font-size: 24px;
+}
+
+#two {
+  color: #0000ff;
+  font-size: 36px;
+  
+#four {
+  background-color: hsl(120, 100%, 75%);
+  font-weight: bold;
+}*/
